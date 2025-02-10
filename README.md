@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm Safwan Ali<br>🚀 Aspiring Data Scientist | 🤖 AI Enthusiast | 💻 MERN Stack Developer<br>🧑‍💻 About Me:<br>🎓 Computer Science student .<br>📊 Passionate about Data Science, Machine Learning, and AI.<br>🤖 Built intelligent projects using XGBoost, SVM, Random Forest, GANs, NLP-based Spam Detection, and Clustering Algorithms.<br>🌱 Currently exploring AI-powered systems with TensorFlow.js and integrating AI agents into full-stack applications.<br>
+Hi there! 👋 I'm Safwan Ali<br>🚀 Aspiring Data Scientist | 🤖 AI Enthusiast | 💻 MERN Stack Developer<br>🎓 Computer Science student .<br>📊 Passionate about Data Science, Machine Learning, and AI.<br>🤖 Built intelligent projects using XGBoost, SVM, Random Forest, GANs, NLP-based Spam Detection, and Clustering Algorithms.<br>🌱 Currently exploring AI-powered systems with TensorFlow.js and integrating AI agents into full-stack applications.<br>
 
 
 ## 🌐 Socials:
