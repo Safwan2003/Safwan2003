@@ -7,7 +7,7 @@ Hi there! 👋 I'm **Safwan Ali**
 💼 AI Engineer at **MarkyTech** (Aug 2025 – Present). I started as an AI Intern and moved into an engineering role.
 🤖 I build production AI systems: LLM chatbots, RAG pipelines, real-time voice AI agents, multi-agent workflows and generative AI tooling.
 🌙 My Final Year Project is an AI-driven lunar soil analysis system aligned with SUPARCO's ICUBE-Qamar mission.
-🗣️ I'm also experimenting with Urdu and Pashto speech models (TTS/STT) and real-time voice streaming.
+🗣️ I'm also experimenting with Urdu speech models (TTS/STT) and real-time voice streaming.
 
 🌍 **Portfolio:** [safwan2003.github.io/Safwan_Ali](https://safwan2003.github.io/Safwan_Ali/)
 
