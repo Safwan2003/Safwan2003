@@ -4,7 +4,7 @@ Hi there! 👋 I'm **Safwan Ali**
 
 🚀 AI Engineer | Data Scientist | LLM & Full-Stack AI Developer
 🎓 Computer Science student at Salim Habib University (June 2026), Karachi, Pakistan
-💼 AI Engineer at **MarkyTech** (Aug 2025 – Present). I started as an AI Intern and moved into an engineering role.
+💼 AI Engineer  (Aug 2025 – Present). I started as an AI Intern and moved into an engineering role.
 🤖 I build production AI systems: LLM chatbots, RAG pipelines, real-time voice AI agents, multi-agent workflows and generative AI tooling.
 🌙 My Final Year Project is an AI-driven lunar soil analysis system aligned with SUPARCO's ICUBE-Qamar mission.
 🗣️ I'm also experimenting with Urdu speech models (TTS/STT) and real-time voice streaming.
