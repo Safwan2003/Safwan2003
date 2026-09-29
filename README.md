@@ -26,7 +26,6 @@ Hi there! 👋 I'm **Safwan Ali**
 | Project | Description | Tech |
 |---|---|---|
 | 📝 [**Summariz**](https://github.com/Safwan2003/Summariz-Live-Streaming-with-Real-Time-Transcription-Summarization-Built-by-AFS-Solutions) | Live video streaming with real-time speech-to-text and AI summarization. | TypeScript, STT, LLMs |
-| 🗣️ [**Urdu-TTS**](https://github.com/Safwan2003/Urdu-TTS) · [**Pashto-TTS**](https://github.com/Safwan2003/pashto-tts) · [**Pashto-STT**](https://github.com/Safwan2003/pashto-STT) · [**voice-streaming**](https://github.com/Safwan2003/voice-streaming) | Speech synthesis and recognition for low-resource languages, plus real-time voice streaming. | Python, Jupyter |
 | ❤️ [**Heart Disease Prediction**](https://github.com/Safwan2003/RandomForest_Heart_Disease_Prediction) · [Live Demo](https://safwan2003-randomforest-heart-disease-prediction-srcapp-bm71ko.streamlit.app/) | Random Forest risk classifier with feature selection, deployed on Streamlit Cloud. | Scikit-learn, Streamlit |
 | 🍎 [**Fruit Classification CNN**](https://github.com/Safwan2003/FruitClassification_CNN) | CNN with data augmentation and batch normalization. | TensorFlow, Keras |
 | 🛍️ [**Customer Segmentation**](https://github.com/Safwan2003/customer-segmentation-kmeans-clustering) | K-Means clustering with silhouette-score evaluation. | Scikit-learn, Matplotlib |
